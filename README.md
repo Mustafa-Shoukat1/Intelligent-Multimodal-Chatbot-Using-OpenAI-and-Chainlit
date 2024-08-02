@@ -71,7 +71,6 @@ Welcome to the **Multimodal Chatbot** project! This project showcases a chatbot 
 - **audio_process**: Transcribes audio files to text using the Whisper-1 model.
 - **chat**: Handles incoming messages and processes text, images, or audio accordingly.
 
-## Contact Information
    <h2 style="color: red; margin-top: 15px; font-size: 28px;">Contact Information</h2>
         <table style="width: 100%; margin-top: 15px; border-collapse: collapse;">
             <tr style="background-color: #64B5F6; color: #ffffff;">
